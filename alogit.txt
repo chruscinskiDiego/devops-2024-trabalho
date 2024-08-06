@@ -1,3 +1,7 @@
 Alô Git
+<<<<<<< HEAD
 
 Digitação Diego
+=======
+Teste do Gustavo
+>>>>>>> gustavo_moretto
